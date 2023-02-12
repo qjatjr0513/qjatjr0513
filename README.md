@@ -21,7 +21,7 @@
 		<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />	
 	<hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=qjatjr0513&show_icons=true">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=150&section=footer" />
