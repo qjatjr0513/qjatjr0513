@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&&color=E3A6AE&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=200&section=footer" />
 
 <!--
 **qjatjr0513/qjatjr0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
