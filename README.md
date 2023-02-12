@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=300&section=header&text=capsule%20render&fontSize=90" />
 	<h1>:pencil:Skills:pencil:</h1>
 	
 <div>
