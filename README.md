@@ -20,9 +20,9 @@
 		<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 		<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />	
 	<hr>
-<div style='float'>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=qjatjr0513&show_icons=true">
-</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=150&section=footer" />
 </div>
