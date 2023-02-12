@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&amp;color=6FC7E1&amp;height=200&amp;text=SLICE&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=desc%20function%20is%20also%20rotated.&amp;descAlign=70.&amp;descAlignY=44" />
+<img src="https://capsule-render.vercel.app/api?type=slice&amp;color=6FC7E1&amp;height=200&amp;text=Hello&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=desc%20function%20is%20also%20rotated.&amp;descAlign=70.&amp;descAlignY=44" />
 	<h1>:pencil:Skills:pencil:</h1>
 	
 <div>
