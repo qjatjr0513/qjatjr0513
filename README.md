@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=qjatjr0513&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact">
+
 	<h1>:pencil:Skills:pencil:</h1>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -24,4 +23,6 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />	
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=qjatjr0513&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact">
 </div>
