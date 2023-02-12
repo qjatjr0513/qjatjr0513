@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=150&section=footer" />
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -7,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=qjatjr0513&show_icons=true">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=150&section=footer" />
 <!--
 **qjatjr0513/qjatjr0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
