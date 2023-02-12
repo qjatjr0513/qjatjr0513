@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&&color=6FC7E1&height=150&section=footer" />
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
