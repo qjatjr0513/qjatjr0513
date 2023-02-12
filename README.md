@@ -1,8 +1,9 @@
 <div align="center">
+<div>
 <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=6FC7E1&amp;height=200&amp;text=Hello&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;&amp;descAlign=70.&amp;descAlignY=44" />
 	<h1>:pencil:Skills:pencil:</h1>
 	
-<div>
+
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
