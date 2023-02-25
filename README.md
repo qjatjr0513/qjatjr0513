@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=6FC7E1&amp;height=150&amp;text=Hello&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;&amp;descAlign=70.&amp;descAlignY=44" />
 	
-# 📖: Skills :📖:
+# 📖 Skills 📖
 	
-## :pencil: Front-End :pencil:		
+## 📝 Front-End 📝		
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />	
 </div>
 	
-## :pencil: Back-End :pencil:	
+## 📝 Back-End 📝
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 </div>
 
-## :pencil: Tool :pencil:	
+## 📝 Tool 📝	
 <div>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
